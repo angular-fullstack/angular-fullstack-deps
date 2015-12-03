@@ -1,5 +1,6 @@
 {
   "name": "angular-fullstack-deps",
+  "description": "The purpose of this repository is to track all the possible dependencies of an application created by generator-angular-fullstack.",
   "version": "3.0.0",
   "main": "server/app.js",
   "dependencies": {
