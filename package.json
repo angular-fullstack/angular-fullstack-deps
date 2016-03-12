@@ -1,7 +1,7 @@
 {
   "name": "angular-fullstack-deps",
   "description": "The purpose of this repository is to track all the possible dependencies of an application created by generator-angular-fullstack.",
-  "version": "3.4.1",
+  "version": "3.4.2",
   "main": "server/app.js",
   "dependencies": {
     "express": "^4.13.3",
@@ -166,8 +166,8 @@
     "tslint": "^3.5.0"
   },
   "engines": {
-    "node": "^4.2.3",
-    "npm": "^2.14.7"
+    "node": "^4.4.0",
+    "npm": "^2.14.20"
   },
   "scripts": {
     "start": "node server",
