@@ -1,7 +1,7 @@
 {
   "name": "angular-fullstack-deps",
   "description": "The purpose of this repository is to track all the possible dependencies of an application created by generator-angular-fullstack.",
-  "version": "3.6.0",
+  "version": "3.6.1",
   "main": "server/app.js",
   "dependencies": {
     "express": "^4.13.3",
@@ -91,7 +91,7 @@
     "gulp-scss-lint": "^0.3.9",
     "gulp-less": "^3.0.3",
     "gulp-recess": "^1.1.2",
-    "grunt": "^1.0.1",
+    "grunt": "^0.4.5",
     "grunt-build-control": "^0.7.0",
     "isparta": "^4.0.0",
     "utile": "~0.3.0",
