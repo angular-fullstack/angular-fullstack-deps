@@ -1,7 +1,6 @@
 {
   "name": "angular-fullstack-deps",
-  "description": "The purpose of this repository is to track all the possible dependencies of an application created by generator-angular-fullstack.",
-  "version": "3.7.0-beta.1",
+  "version": "3.7.0-beta.2",
   "main": "server/app.js",
   "dependencies": {
     "express": "^4.13.3",
@@ -127,7 +126,7 @@
     "grunt-nodemon": "^0.4.0",
     "grunt-angular-templates": "^1.0.3",
     "grunt-dom-munger": "^3.4.0",
-    "grunt-protractor-runner": "^2.0.0",
+    "grunt-protractor-runner": "^3.1.0",
     "grunt-injector": "^0.6.0",
     "grunt-karma": "~0.12.0",
     "grunt-sass": "^1.1.0",
@@ -180,5 +179,6 @@
     "test": "grunt test",
     "update-webdriver": "node node_modules/grunt-protractor-runner/node_modules/protractor/bin/webdriver-manager update"
   },
-  "private": false
+  "private": false,
+  "description": "The purpose of this repository is to track all the possible dependencies of an application created by generator-angular-fullstack."
 }
