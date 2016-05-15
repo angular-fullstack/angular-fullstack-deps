@@ -1,6 +1,6 @@
 {
   "name": "angular-fullstack-deps",
-  "version": "3.7.1",
+  "version": "3.7.2",
   "main": "server/app.js",
   "dependencies": {
     "express": "^4.13.3",
