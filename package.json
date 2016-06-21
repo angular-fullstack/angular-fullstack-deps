@@ -1,6 +1,6 @@
 {
   "name": "angular-fullstack-deps",
-  "version": "3.7.5",
+  "version": "3.7.6",
   "main": "server/app.js",
   "dependencies": {
     "express": "^4.13.3",
@@ -20,7 +20,7 @@
     "ejs": "^2.3.3",
     "mongoose": "^4.1.2",
     "bluebird": "^3.3.3",
-    "connect-mongo": "^1.1.0",
+    "connect-mongo": "^1.2.1",
     "sequelize": "^3.5.1",
     "sqlite3": "~3.1.1",
     "express-sequelize-session": "0.4.0",
