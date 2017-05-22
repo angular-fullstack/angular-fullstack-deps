@@ -1,6 +1,6 @@
 {
   "name": "angular-fullstack-deps",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "main": "server/index.js",
   "dependencies": {
     "angular": "~1.6.0",
