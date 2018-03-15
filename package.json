@@ -1,6 +1,6 @@
 {
   "name": "angular-fullstack-deps",
-  "version": "5.0.0-rc.0",
+  "version": "5.0.0-rc.1",
   "main": "server/index.js",
   "dependencies": {
     "compression": "^1.7.1",
